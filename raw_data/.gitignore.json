@@ -1,8 +1,16 @@
 {
     "t_val 0": [
         {
-            "bicoljoy@nate.com": "participant"
+            "antonino.mione@sunykorea.ac.kr": "participant",
+            "cryptodude@gmail.com": "participant"
         },
-        35881746308190062978663543160304962790572224119838374446525413642261672374911
+        -39036004592738450476795123753299128777821611049595032887762954045283558303538
+    ],
+    "t_val 1": [
+        {
+            "antonino.mione@stonybrook.edu": "participant",
+            "antonino.mione@sunykorea.ac.kr": "participant"
+        },
+        -29325701420828588236681953420139200169367717150416498932593310999697298763090
     ]
 }
